@@ -1,0 +1,17 @@
+I'm using this file for practice.
+
+This could be an HTML file, or a JS file, or any other code file.
+
+I suppose that if it was, I would edit it in Sublime Text, not in nano. Right?
+
+Oh yeah, I had a question!
+
+Why would anyone ever need to "git add" and not "git commit" at the same time?
+
+What would be the use case of that?
+
+And if there's no normal use case, why not just create a shortcut...
+
+git add + git commit?
+
+also, what about git push and git pull and git merge? i have a lot to learn.
